@@ -2,6 +2,7 @@ Earthquake Detector using Arduino
 
 
 COMPONENTS
+
 Arduino Uno: Microcontroller that serves as the core of the entire project.
 ADXL335 Accelerometer: Sensor to detect vibrations caused by earthquakes.
 Buzzer: To produce an alarm when an earthquake is detected.
@@ -12,16 +13,19 @@ Jumper Wires: Small cables to connect components on the breadboard.
 
 
 Cables and Connectors
+
 Male to Male Jumper Cables: To connect pins on the Arduino to the breadboard.
 USB Cable for Arduino: To connect the Arduino to a computer for programming and power supply.
 
 
 BACKGROUND
+
 Earthquakes are natural phenomena that can cause significant damage and endanger lives, especially in countries like Indonesia, located in the Pacific Ring of Fire. Early detection of earthquakes is crucial to mitigate the impact of these disasters.
 Traditional earthquake detection systems use expensive and complex seismographs, making them inaccessible to the general public, especially in remote areas. However, advancements in microelectronics and the Internet of Things (IoT) now enable the creation of simpler, cheaper, and user-friendly earthquake detection systems.
 
 
 PROBLEMS
+
 1. Limited Access to Traditional Systems
 
 2. High Costs
@@ -38,10 +42,12 @@ PROBLEMS
 
 
 SOLUTION: Earthquake Detection System with Arduino
+
 Arduino is an open-source platform that is affordable and easy to program, ideal for creating an accessible and cost-effective earthquake detection system. Using sensors like accelerometers, this system can detect earthquake vibrations in real-time and provide early warnings. The Arduino-based system offers flexible solutions that can be tailored to the needs of users, making it suitable for various environments and communities.
 
 
 OBJECTIVES
+
 1. Improve Accessibility of Earthquake Detection
 2. Reduce Costs
 3. Simplify Usage
@@ -54,18 +60,22 @@ OBJECTIVES
 
 
 Hardware Assembly
+
 Microcontroller: Place the Arduino Uno on the breadboard.
 Vibration Sensor: Connect the ADXL335 to the Arduino using jumper cables. Pin VCC to 3.3V, GND to GND, and data pins (X, Y, Z) to Arduino analog pins (A0, A1, A2).
 
 Alarm and Indicator:
+
 Connect the buzzer to a digital pin on the Arduino through a 220 Ohm resistor to regulate current.
 Connect the LED to a digital pin on the Arduino through a 220 Ohm resistor.
 
 Connections:
+
 Use male to male jumper cables to connect all components.
 Connect the Arduino to the computer using a USB cable.
 
 Arduino Programming
+
 IDE Setup:
 Install the Arduino IDE on the computer.
 Install the library for ADXL335.
@@ -83,6 +93,7 @@ Testing
 
 
 WORK FLOW
+
 Initialization:
 Initialize components (sensor, display, buzzer, LED).
 
