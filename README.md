@@ -9,8 +9,7 @@
 * Breadboard: Connects all components without the need for soldering.
 * Jumper Wires: Small cables to connect components on the breadboard.
 
-
-## Cables and Connectors
+### Cables and Connectors
 * Male to Male Jumper Cables: To connect pins on the Arduino to the breadboard.
 * USB Cable for Arduino: To connect the Arduino to a computer for programming and power supply.
 
