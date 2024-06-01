@@ -114,6 +114,10 @@ Continuous Monitoring:
 Continue reading and processing data.
 
 
+RESULT
+![arduino earthquake detector](https://github.com/stephanieangela03/Earthquake-Detector-using-Arduino/assets/115938834/f6610eeb-ffc3-49ae-9e16-61886e4829c8)
+
+
 CONCLUSION
 
 The Arduino-based earthquake detection system is an affordable, user-friendly, and effective solution for early earthquake warnings. With inexpensive components like the ADXL335 sensor, buzzer, and LED, the system can detect vibrations in real-time and provide quick notifications. Its flexibility and ease of customization make it suitable for various audiences, enhancing community preparedness and awareness of earthquake hazards.
