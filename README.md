@@ -1,6 +1,7 @@
 Earthquake Detector using Arduino
 
 
+
 COMPONENTS
 
 Arduino Uno: Microcontroller that serves as the core of the entire project.
