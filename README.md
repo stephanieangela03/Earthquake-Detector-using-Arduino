@@ -75,7 +75,7 @@ Upload the program code to the Arduino.
 [Link to video]
 
 
-## WORK FLOW
+## Work Flow
 
 ### Initialization
 Initialize components (sensor, display, buzzer, LED).
