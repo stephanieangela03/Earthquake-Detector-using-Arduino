@@ -72,7 +72,7 @@ Connect the Arduino to the computer using a USB cable.
 Upload the program code to the Arduino.
 
 ### Testing 
-[Link to video]
+Demo video: [Earthquake Detector using Arduino Demo](https://drive.google.com/file/d/1q2J_Sfa2ddDoObJSAGoXUaVKQWXyN06A/view)
 
 
 ## Work Flow
