@@ -1,5 +1,4 @@
 # Earthquake Detector using Arduino
-
 ## Components
 * Arduino Uno: Microcontroller that serves as the core of the entire project.
 * ADXL335 Accelerometer: Sensor to detect vibrations caused by earthquakes.
